@@ -10,3 +10,7 @@ edition = "2021"
 [[example]]
 name = "ch08-median_mode"
 path = "src/ch08-median_mode.rs"
+
+[[example]]
+name = "ch08-pig-latin"
+path = "src/ch08-pig-latin.rs"
