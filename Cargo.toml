@@ -14,3 +14,7 @@ path = "src/ch08-median_mode.rs"
 [[example]]
 name = "ch08-pig-latin"
 path = "src/ch08-pig-latin.rs"
+
+[[example]]
+name = "ch08-employee-db"
+path = "src/ch08-employee-db.rs"
